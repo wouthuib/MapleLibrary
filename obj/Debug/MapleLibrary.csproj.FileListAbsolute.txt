@@ -1,0 +1,4 @@
+C:\Users\cnlwhuib\Documents\Visual Studio 2010\Projects\MapleLibrary\MapleLibrary\bin\Debug\MapleLibrary.dll
+C:\Users\cnlwhuib\Documents\Visual Studio 2010\Projects\MapleLibrary\MapleLibrary\bin\Debug\MapleLibrary.pdb
+C:\Users\cnlwhuib\Documents\Visual Studio 2010\Projects\MapleLibrary\MapleLibrary\obj\Debug\MapleLibrary.dll
+C:\Users\cnlwhuib\Documents\Visual Studio 2010\Projects\MapleLibrary\MapleLibrary\obj\Debug\MapleLibrary.pdb
