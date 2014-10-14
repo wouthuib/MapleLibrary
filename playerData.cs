@@ -42,7 +42,7 @@ namespace MapleLibrary
             CharacterID = (long)info.GetValue("CharacterID", typeof(long));
             Action = (string)info.GetValue("Action", typeof(string));
             PositionX = (float)info.GetValue("PositionX", typeof(float));
-            PositionX = (float)info.GetValue("PositionY", typeof(float));
+            PositionY = (float)info.GetValue("PositionY", typeof(float));
             spritename = (string)info.GetValue("spritename", typeof(string));
             spritestate = (string)info.GetValue("spritestate", typeof(string));
             direction = (string)info.GetValue("direction", typeof(string));

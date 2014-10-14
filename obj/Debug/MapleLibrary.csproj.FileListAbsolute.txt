@@ -2,3 +2,8 @@ C:\Users\cnlwhuib\Documents\Visual Studio 2010\Projects\MapleLibrary\MapleLibrar
 C:\Users\cnlwhuib\Documents\Visual Studio 2010\Projects\MapleLibrary\MapleLibrary\bin\Debug\MapleLibrary.pdb
 C:\Users\cnlwhuib\Documents\Visual Studio 2010\Projects\MapleLibrary\MapleLibrary\obj\Debug\MapleLibrary.dll
 C:\Users\cnlwhuib\Documents\Visual Studio 2010\Projects\MapleLibrary\MapleLibrary\obj\Debug\MapleLibrary.pdb
+C:\Users\cnlwhuib\Documents\GitHub\MapleLibrary\MapleLibrary\bin\Debug\MapleLibrary.dll
+C:\Users\cnlwhuib\Documents\GitHub\MapleLibrary\MapleLibrary\bin\Debug\MapleLibrary.pdb
+C:\Users\cnlwhuib\Documents\GitHub\MapleLibrary\MapleLibrary\obj\Debug\MapleLibrary.csprojResolveAssemblyReference.cache
+C:\Users\cnlwhuib\Documents\GitHub\MapleLibrary\MapleLibrary\obj\Debug\MapleLibrary.dll
+C:\Users\cnlwhuib\Documents\GitHub\MapleLibrary\MapleLibrary\obj\Debug\MapleLibrary.pdb
