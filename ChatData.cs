@@ -21,7 +21,7 @@ namespace MapleLibrary
             Name = (string)info.GetValue("Name", typeof(string));
             Text = (string)info.GetValue("Text", typeof(string));
             PositionX = (int)info.GetValue("PositionX", typeof(int));
-            PositionX = (int)info.GetValue("PositionY", typeof(int));
+            PositionY = (int)info.GetValue("PositionY", typeof(int));
         }
 
         [SecurityPermissionAttribute(SecurityAction.LinkDemand,

@@ -9,6 +9,7 @@ namespace MapleLibrary
     {
         public string Name { get; set; }
         public string Path { get; set; }
+        public string InstanceID { get; set; }
         public int FrameCount { get; set; }
         public int OffsetX { get; set; }
         public int OffsetY { get; set; }
@@ -26,11 +27,12 @@ namespace MapleLibrary
                 throw new System.ArgumentNullException("info");
             Name = (string)info.GetValue("Name", typeof(string));
             Path = (string)info.GetValue("Path", typeof(string));
+            InstanceID = (string)info.GetValue("InstanceID", typeof(string));
             FrameCount = (int)info.GetValue("FrameCount", typeof(int));
             OffsetX = (int)info.GetValue("OffsetX", typeof(int));
             OffsetY = (int)info.GetValue("OffsetY", typeof(int));
             PositionX = (int)info.GetValue("PositionX", typeof(int));
-            PositionX = (int)info.GetValue("PositionY", typeof(int));
+            PositionY = (int)info.GetValue("PositionY", typeof(int));
             PlayerLockName = (string)info.GetValue("PlayerLockName", typeof(string));
             InstanceLockName = (string)info.GetValue("InstanceLockName", typeof(string));
             Value_01 = (int)info.GetValue("Value_01", typeof(int));
@@ -42,7 +44,9 @@ namespace MapleLibrary
         {
             if (info == null)
                 throw new System.ArgumentNullException("info");
+            info.AddValue("Name", Name);
             info.AddValue("Path", Path);
+            info.AddValue("InstanceID", InstanceID);
             info.AddValue("FrameCount", FrameCount);
             info.AddValue("OffsetX", OffsetX);
             info.AddValue("OffsetY", OffsetY);

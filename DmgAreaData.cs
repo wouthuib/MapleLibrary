@@ -25,7 +25,7 @@ namespace MapleLibrary
                 throw new System.ArgumentNullException("info");
             Owner = (string)info.GetValue("Owner", typeof(string));
             PositionX = (int)info.GetValue("PositionX", typeof(int));
-            PositionX = (int)info.GetValue("PositionY", typeof(int));
+            PositionY = (int)info.GetValue("PositionY", typeof(int));
             AreaWidth = (int)info.GetValue("AreaWidth", typeof(int));
             AreaHeigth = (int)info.GetValue("AreaHeigth", typeof(int));
             Permanent = (string)info.GetValue("Permanent", typeof(string));
