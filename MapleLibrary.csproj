@@ -50,6 +50,7 @@
     <Compile Include="ChatData.cs" />
     <Compile Include="DmgAreaData.cs" />
     <Compile Include="EffectData.cs" />
+    <Compile Include="HudData.cs" />
     <Compile Include="ItemData.cs" />
     <Compile Include="MonsterData.cs" />
     <Compile Include="playerData.cs" />
